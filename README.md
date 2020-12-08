@@ -1,3 +1,7 @@
+# reanimated-animatedprops-repro
+
+Original instructions for getting set up:
+
 # reanimated-2-playground
 
 This repo contains a fresh React Native project with preinstalled Reanimated V2
@@ -9,11 +13,13 @@ Checkout using the following command to start playing with the new Reanimated AP
 ```
 
 Don't forget to install dependencies:
+
 ```bash
 > cd reanimated-2-playground && yarn
 ```
 
 If you want to install app on the iOS simulator:
+
 ```bash
 npx pod-install
 ```
